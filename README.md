@@ -1,9 +1,6 @@
-<!-- HEADER -->
-
-<h1 align="center">Hi, I'm Eunhye Song 👋</h1>
-
+<h1 align="center">Hi 👋 I'm Eunhye Song</h1>
 <p align="center">
-Full-stack developer building AI & fintech products
+Product-focused developer building real systems
 </p>
 
 <p align="center">
@@ -14,58 +11,50 @@ Full-stack developer building AI & fintech products
 
 ---
 
-## 🌿 About Me
+## 🚀 About Me
 
-I enjoy building **products that solve real problems.**
+I build **real products and systems**, not just demos.
 
-Currently focused on:
+Interested in:
 
-- 🤖 AI powered systems  
-- 📈 Quant finance tools  
-- ⚙️ Scalable backend architecture  
-- 🚀 Startup-style product development  
+- AI powered applications  
+- Fintech & investment platforms  
+- Backend architecture  
+- Product-driven development  
+
+Currently building:
+
+📈 **AI Stock Analytics Platform**
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Skills
 
-### Backend
+### Backend / Server
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+- Java
+- Python (AI-assisted development)
+- FastAPI
+- Spring / JSP
 
 ### Frontend
 
-![Vue](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+- Vue
+- JavaScript
+- HTML / CSS
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- Oracle
+- PostgreSQL
+- MariaDB
+- MySQL
 
-### DevOps
+### Dev / Infra
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### 📊 AI Stock Analytics Platform
-
-An AI-driven investment analytics platform.
-
-Features:
-
-- 📈 Interactive stock charts
-- 🤖 AI investment insights
-- 📊 Quant scoring engine
-- 🔎 Smart stock screener
-- ⭐ Investment recommendations
-
-Goal:
-
-> Build the most intuitive AI powered investment analytics platform.
+- Git
+- Docker
+- Linux
 
 ---
 
@@ -76,15 +65,38 @@ Goal:
 <img height="160"
 src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
 
+<img height="160"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Current Project
 
-- AI systems  
-- Quantitative investing  
-- High performance backend design  
+### AI Stock Analytics Platform
+
+Building an AI-driven investment analytics system.
+
+Features:
+
+- 📈 Stock analytics dashboard
+- 🤖 AI investment insights
+- 📊 Quant scoring engine
+- 🔎 Stock screener
+- ⭐ Investment recommendations
+
+Goal:
+
+Create a **powerful but intuitive investment analysis platform.**
+
+---
+
+## 🌱 Currently Exploring
+
+- AI product development
+- Quantitative investing
+- High performance backend architecture
 
 ---
 
@@ -96,5 +108,5 @@ https://github.com/YOUR_USERNAME
 ---
 
 <p align="center">
-✨ Always building something interesting
+Always building something interesting 🚀
 </p>
