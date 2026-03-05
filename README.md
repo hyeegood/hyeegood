@@ -103,7 +103,7 @@ Create a **powerful but intuitive investment analysis platform.**
 ## 🤝 Connect
 
 GitHub  
-https://github.com/YOUR_USERNAME
+https://github.com/hyeegood
 
 ---
 
