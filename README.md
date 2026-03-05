@@ -1,70 +1,90 @@
-# 👋 Hi, I'm Eunhye Song
+<!-- HEADER -->
 
-Full-stack developer building **AI powered products and fintech systems**
+<h1 align="center">Hi, I'm Eunhye Song 👋</h1>
 
-🚀 Currently building  
-**AI Stock Analytics Platform**
+<p align="center">
+Full-stack developer building AI & fintech products
+</p>
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=social">
+</a>
+</p>
 
 ---
 
-## ✨ About
+## 🌿 About Me
 
-I love building **real products that people use.**
+I enjoy building **products that solve real problems.**
 
-Focused on:
+Currently focused on:
 
-- 🤖 AI products  
-- 📊 Quant finance  
-- ⚙️ Backend systems  
-- 🚀 Startup engineering
+- 🤖 AI powered systems  
+- 📈 Quant finance tools  
+- ⚙️ Scalable backend architecture  
+- 🚀 Startup-style product development  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### Frontend
-![Vue](https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+
+![Vue](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Dev
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-### 📈 AI Stock Analytics Platform
+### 📊 AI Stock Analytics Platform
 
 An AI-driven investment analytics platform.
 
-Features
+Features:
 
-- 📊 Quant investment scoring
-- 🤖 AI market insights
 - 📈 Interactive stock charts
+- 🤖 AI investment insights
+- 📊 Quant scoring engine
 - 🔎 Smart stock screener
 - ⭐ Investment recommendations
 
+Goal:
+
+> Build the most intuitive AI powered investment analytics platform.
+
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+<p align="center">
+
+<img height="160"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- AI systems
-- Quantitative investing
-- Scalable backend architecture
+- AI systems  
+- Quantitative investing  
+- High performance backend design  
 
 ---
 
@@ -75,4 +95,6 @@ https://github.com/YOUR_USERNAME
 
 ---
 
-⭐️ Always building something interesting.
+<p align="center">
+✨ Always building something interesting
+</p>
