@@ -1,12 +1,84 @@
-<h1 align="left">Hi 👋, I'm This is EunHye Song, a developer who codes dreams.</h1>
-<h3 align="left">💁‍♀️I am workin with mission of change the world a better than yesterday!</h3>
+<h1 align="center">Hi 👋 I'm Eunhye Song</h1>
+<h3 align="center">Building AI-powered products & full-stack systems</h3>
 
-- 🌱 I’m currently learning **git, java, algorithm**
-<h3 align="left">🌈Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;AI%20Product%20Builder;Stock%20Analytics%20Platform;Always%20Learning%20New%20Things&center=true&width=500&height=45">
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hyeegood&show_icons=true&locale=en&layout=compact" alt="hyeegood" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hyeegood&" alt="hyeegood" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hyeegood&show_icons=true&locale=en" alt="hyeegood" /></p>
+---
 
+# 🚀 About Me
 
+- 🔭 Currently building **AI Stock Analytics Platform**
+- 🌱 Learning **AI + Quant Investing + System Architecture**
+- ⚡ Interested in **Fintech / AI / Data Systems**
+- 🧠 Love building **products that people actually use**
+
+---
+
+# 🧰 Tech Stack
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 Current Project
+
+### AI Stock Analytics Platform
+
+Features
+
+- 📈 Advanced stock chart
+- 🤖 AI investment insight
+- 📊 Quant scoring engine
+- 🔍 Stock screener
+- ⭐ Investment recommendations
+
+Goal
+
+> Build the most intuitive AI-driven investment analytics platform.
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🌎 Connect
+
+<p align="center">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+⭐️ If you like my work, follow me on GitHub!
