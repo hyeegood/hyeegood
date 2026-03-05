@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Eunhye Song</h1>
+[<h1 align="center">Hi 👋 I'm Eunhye Song</h1>
 <h3 align="center">Building AI-powered products & full-stack systems</h3>
 
 <p align="center">
@@ -82,3 +82,4 @@ Goal
 ---
 
 ⭐️ If you like my work, follow me on GitHub!
+](https://github.com/hyeegood)
